@@ -1,0 +1,5 @@
+www.google.com,216.58.211.228
+github.com,192.30.252.128
+www.gianoliveira.com,178.33.5.215
+www.verisigninc.com,72.13.63.55
+www.xatakaon.com,185.43.182.25
